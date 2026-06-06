@@ -1,47 +1,75 @@
-# PWAFire
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# pwafire
 
-Modern PWA APIs for building Progressive Web Apps with ease.
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/pwafire)
 
-[![CI](https://github.com/pwafire/pwafire/workflows/CI/badge.svg)](https://github.com/pwafire/pwafire/actions/workflows/pwafire-ci.yml)
-[![npm version](https://badge.fury.io/js/pwafire.svg)](https://badge.fury.io/js/pwafire)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Documentation](https://img.shields.io/badge/Docs-docs.pwafire.org-blue)](https://docs.pwafire.org/get-started)
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-## Installation
+## Architecture
+
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
+
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
 ```bash
-npm install pwafire
+git clone https://github.com/Interested-Deving-1896/pwafire.git
+cd pwafire
 ```
 
-## Quick Start
+## Usage
 
-```typescript
-import { copyText } from "pwafire";
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-const { ok, message } = await copyText("Hello World");
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/pwafire`](https://github.com/Interested-Deving-1896/pwafire) and mirrored through:
+
+```
+Interested-Deving-1896/pwafire  ──►  OpenOS-Project-OSP/pwafire  ──►  OpenOS-Project-Ecosystem-OOC/pwafire
 ```
 
-## Try it Live
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
 
-| Resource                                                             | Description                           |
-| -------------------------------------------------------------------- | ------------------------------------- |
-| [Launch Console](https://console.pwafire.org)                        | Test all PWA APIs in your browser     |
-| [Code Live](https://stackblitz.com/edit/pwafire?file=src%2Findex.ts) | Live Demo & Playground — edit and run |
+## Contributors
 
-## Documentation
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
 
-| Document                                              | Description                         |
-| ----------------------------------------------------- | ----------------------------------- |
-| [Documentation](https://docs.pwafire.org/get-started) | API reference, guides, and examples |
-| [Breaking Changes](./docs/agents/breaking-changes.md) | Migration guide for v6.0.0          |
-| [Contributing](./.github/CONTRIBUTING.md)             | Contribution guidelines             |
-| [Code of Conduct](./.github/CODE_OF_CONDUCT.md)       | Community standards                 |
-| [Security](./.github/SECURITY.md)                     | Security policy                     |
+## Origins
 
-## Contributing
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
 
-We welcome contributions! See [CONTRIBUTING.md](./.github/CONTRIBUTING.md) for guidelines.
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
 
 ## License
 
-MIT © [PWAFire](https://github.com/pwafire)
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
